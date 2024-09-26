@@ -1,0 +1,70 @@
+# **9/9**
+- In 60s and 70s:
+	- Women's rights movement & sexual revolution
+	- Divorce was easier, due to the fact that women were able to retain jobs after having children/families.
+		- Divorce rates went up, peaking by 1980. Divorce rates were about 50%.
+	- People were starting to become more accepting of non-traditional relationships such as single-motherhood.
+	- Birth rates also begin to decline as a result.
+		- Teenage pregnancies were more common in the 1950s and 1960s.
+- 1980s
+	- Birth control access, sex education and careers before families become more common
+	- Women faced backlash for using birth control, especially teenage girls.
+		- This was prevented by keeping their names anonymous.
+- Kuhlmeier:
+	- Principle cut two articles on pregnancy and parent's divorce.
+	- Student's felt it violated free speech, sued and brought it to the Supreme Court. 
+	- The court ruled against them, giving schools more "official" power to essentially veto student articles in the school newspaper.
+	- Student's and official newspapers all over were very critical of this ruling. 
+- Pico:
+	- This occurred in Levittown, first "planned, cook-cutter" suburban neighborhood. Est. 1948.
+		- Only white families could purchase a home at this time. Literally no one but white people could live in there.
+		- Housing segregation wasn't outlawed until 1968. 
+	- Schools began to ban certain books, specifically books by Black Authors.
+		- Levittown developed a list of "objectionable" books in school library.
+		- School board bans/removes those books.
+		- Claimed books were "Anti-american, anti-Christian, and just plain wrong"
+	- Student's from Levittown sued the school:
+		- "There are no wrong books.. what's wrong is to fear them."
+		- "Levittown is a community where we don't get to see too much of what is in those books."
+	- Ruling:
+		- Court ruled in favor of the students.
+		- Ruled that schools cannot ban books for ideological reasons. The book ban violated student's free speech rights.
+		- School was ordered to restore these books to the school library.
+		- Schools can decide not to purchase those books however, once they acquire them they cannot remove them.
+# 9/11
+- Nancy Reagan began a campaign on the **war on drugs** in the 1980s. With several commercial advertisements and PSAs.
+	- "Just say no."
+	- The sentiment was that much of the campaign was an overly simplistic way to approach the war on drugs but boiling it down to just telling people not to use them.
+		- A lot of the vocabulary used against the use of drug could be considered mocking.
+- The Reagan administration established several anti-drug measures such as regulated drug testing. 
+	- This was also when "mandatory minimums" were established, increasing the incarceration rate substantially in the US.
+- D.A.R.E. was established in schools, among other anti-drug programs.
+	- "Take a bite out of crime"
+- These campaigns seemed to be effective at first, with drug use rates going down among young people, peaking in the early 90s.
+	- Eventually, the rates went back up but not to the original rates.
+- **Frederick Case**
+	- Student held up a sign saying "Bong Hits 4 Jesus" on the side of the street. 
+	- His banner was confiscated, despite the fact that he didn't even step on school grounds.
+	- Supreme Court ruled in favor of the school, saying that they did not violate his free speech.
+		- They reasoned that even though he technically wasn't on school property, the event could be considered a "field trip" or a school sponsored event.
+	- They couldn't consider the message to be political speech either, given the jokey nature of the banner.
+	- Also claimed that the first amendment did not apply because:
+		- Happened during school hours
+		- Message was not political (as mentioned earlier)
+	- Clarence Thomas also had interesting points:
+		- Disagreed with Tinker, "students don't have rights"
+		- Agreed with Justice Black (former KKK)
+		- Believes that Frederick case wasn't enough
+	- The dissent:
+		- free speech is a right regardless of viewpoint
+		- Frederick decision restricts the expression of a specific viewpoint
+		- Drug policy/enforcement is political and a legitimate area of debate
+		- People, including students, have a right to disagree with policy and oppose war on drugs
+		- Proposals for legalization become more popular, even in the Alaska which is where the case originated.
+# 9/18 #
+**Fair Discipline- Suspensions Due Process**
+- 14th Amendment: "All persons born in the US are immediately citizens of the nation"
+	- Emphasized section for this: "nor shall any State deprive any person of life, liberty or property *without due process*"
+- *Lopez* Case started during black history week, a bunch of students caused a big disruption
+	- All those students got suspended without due process, some of which weren't apart of the group causing the disruption
+- 

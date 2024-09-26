@@ -1,0 +1,30 @@
+- A stored program computer stores the program so that you can change the program without changing the machine
+	- Although computers have become faster and more reliable, the same principle components have been present since the beginning of the stored program computer.
+	- The opposite of a stored program computer is a device like a calculator where you have to input each step one at a time.
+- First type of stored program computer is a Jacquard Loom, which used punch cards that controlled the different textiles.
+	- IBM originally created computers using similar punch cards
+---
+- 4 generations of computers
+- Generation 0: Mechanical Calculating Machines
+	- Hollerith Cards (IBM cards) used as input
+		- Those punch cards are considered "first type of computer memory"
+	- With the punch cards they performed calculations
+	- Used EBCDIC 
+- Generation 1: Vacuum Tube Computers (1945 - 1953)
+	- First totally electronic machine
+	- Atanasoff Berry Computers solved systems of linear equations
+	- Electronic Numerical Integrator and Computer (ENIAC)
+		- First general-purpose computer
+		- 17000 vacuum tubes
+		- Two large rooms
+		- 30 tons
+	- The IBM 650 was the first mass-produced computer (1955)
+		- Magnetic drum, not a disk
+		- Used decimal, not binary
+		- Phased out in 1969
+- Generation 2: Transistorized Computers (1954 - 1965)
+	- Transistors more reliable than vacuum tubes
+	- IBM 7094 (scientific) and 1401 (business)
+	- Chip had 2000 NAND gates
+- Generation 3: Integrated Circuit Computers 
+- Generation 4: VLSI Computers (1980 - ???)

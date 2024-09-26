@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "68cec238b2b14454",
+    "type": "split",
+    "children": [
+      {
+        "id": "cea66e9e337889b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfcbd877b78097bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History of American Education/HAE Main.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80217464e847a342",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3351ae7a82843a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d7d7f910a5c350b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8da0723982b0722f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2b703da4666dcc5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "23e4b3376ffc77be",
+    "type": "split",
+    "children": [
+      {
+        "id": "402ee054d902ce82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b3a5a2f710d50cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "History of American Education/HAE Main.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "623c2e1d1f2f48be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "History of American Education/HAE Main.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "48eac10740b0f823",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dad0790d85cb9629",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "History of American Education/HAE Main.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bfcbd877b78097bb",
+  "lastOpenFiles": [
+    "Computer Architecture/Logic Gates.md",
+    "Computer Architecture/Class Notes.md",
+    "Computer Architecture/Stored Program Computer.md",
+    "Computer Architecture/Computer Architecture Main.md",
+    "Software Engineering/Unit 1- Intro.md",
+    "Software Engineering/Unit 2 - SW Processes.md",
+    "Software Engineering/Images/Pasted image 20240917113847.png",
+    "Software Engineering/Images/Pasted image 20240917113712.png",
+    "Software Engineering/Images/Pasted image 20240917113436.png",
+    "Software Engineering/Images/Pasted image 20240917112714.png",
+    "Software Engineering/Software Engineering Main.md",
+    "Software Engineering/Images/Pasted image 20240916184057.png",
+    "Software Engineering/Images/Pasted image 20240916183536.png",
+    "Software Engineering/Images/Pasted image 20240916060620.png",
+    "Software Engineering/Images",
+    "Software Engineering/Images/Pasted image 20240916055354.png",
+    "History of American Education/HAE Main.md",
+    "Software Engineering",
+    "Computer Architecture/Images/Pasted image 20240912115643.png",
+    "Computer Architecture/Images/Pasted image 20240912115211.png",
+    "Computer Architecture/Images",
+    "Computer Architecture/Boolean Identities.md",
+    "Computer Architecture/Truth Tables.md",
+    "Computer Architecture/Canonical Forms.md",
+    "History of American Education",
+    "Untitled.canvas",
+    "Untitled 1",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Computer Architecture/Boolean Algebra.md",
+    "Welcome.md",
+    "Computer Architecture"
+  ]
+}
