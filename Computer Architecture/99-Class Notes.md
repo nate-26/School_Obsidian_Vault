@@ -38,4 +38,3 @@
 	- S0 = 0 & S1 = 1 -> Word 2 Select
 	- S0 = 1 & S1 = 1 -> Word 3 Select
 ---
-## Counter
