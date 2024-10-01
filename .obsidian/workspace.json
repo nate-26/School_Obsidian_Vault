@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History of American Education/HAE Main.md",
+                "file": "Computer Architecture/07-Combinational Circuits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c13c4e955c2f250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Architecture/00-Computer Architecture Main.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +74,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History of American Education/HAE Main.md",
+                "file": "Computer Architecture/00-Computer Architecture Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History of American Education/HAE Main.md",
+                "file": "Computer Architecture/00-Computer Architecture Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History of American Education/HAE Main.md"
+                "file": "Computer Architecture/00-Computer Architecture Main.md"
               }
             }
           }
@@ -148,14 +161,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfcbd877b78097bb",
+  "active": "7c13c4e955c2f250",
   "lastOpenFiles": [
+    "Computer Architecture/01-Boolean Algebra.md",
+    "Computer Architecture/02-Boolean Identities.md",
+    "Computer Architecture/03-Canonical Forms.md",
+    "Computer Architecture/04-Truth Tables.md",
+    "Computer Architecture/05-Logic Gates.md",
+    "Computer Architecture/06-Stored Program Computer.md",
+    "Computer Architecture/07-Combinational Circuits.md",
+    "Computer Architecture/08-Sequential Register Memory.md",
+    "Computer Architecture/Images/Pasted image 20240925202621.png",
+    "Computer Architecture/Images/Pasted image 20240925202311.png",
+    "Computer Architecture/Images/Pasted image 20240925202258.png",
+    "Software Engineering/Unit 2 - SW Processes.md",
+    "Software Engineering/Unit 1- Intro.md",
+    "Computer Architecture/99-Class Notes.md",
+    "History of American Education/HAE Main.md",
     "Computer Architecture/Logic Gates.md",
     "Computer Architecture/Class Notes.md",
     "Computer Architecture/Stored Program Computer.md",
     "Computer Architecture/Computer Architecture Main.md",
-    "Software Engineering/Unit 1- Intro.md",
-    "Software Engineering/Unit 2 - SW Processes.md",
     "Software Engineering/Images/Pasted image 20240917113847.png",
     "Software Engineering/Images/Pasted image 20240917113712.png",
     "Software Engineering/Images/Pasted image 20240917113436.png",
@@ -165,11 +191,7 @@
     "Software Engineering/Images/Pasted image 20240916183536.png",
     "Software Engineering/Images/Pasted image 20240916060620.png",
     "Software Engineering/Images",
-    "Software Engineering/Images/Pasted image 20240916055354.png",
-    "History of American Education/HAE Main.md",
     "Software Engineering",
-    "Computer Architecture/Images/Pasted image 20240912115643.png",
-    "Computer Architecture/Images/Pasted image 20240912115211.png",
     "Computer Architecture/Images",
     "Computer Architecture/Boolean Identities.md",
     "Computer Architecture/Truth Tables.md",
