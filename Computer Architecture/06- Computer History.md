@@ -1,3 +1,4 @@
+## Stored Program Computer 
 - A stored program computer stores the program so that you can change the program without changing the machine
 	- Although computers have become faster and more reliable, the same principle components have been present since the beginning of the stored program computer.
 - The opposite of a stored program computer is a device like a calculator where you have to input each step one at a time.
@@ -19,17 +20,20 @@
 ---
 ## Historical Development | 4 Generations of Computers
 
-- **Generation 0**: Mechanical Calculating Machines
+### Generation 0
+- **Mechanical Calculating Machines**
+	- Punched Card Tabulating Machines - Herman Hollerith (1860 - 1929)
+		- Used in 1890 census
 	- Hollerith Cards (IBM cards) used as input through the 1970's
 		- 80 columns = 80 character input line
 		- Those punch cards are considered "first type of computer memory"
 	- With the punch cards they performed calculations
 	- Used EBCDIC 
-![[Pasted image 20240930190757.png]]
 ![[Pasted image 20240930190805.png]]
 ![[Pasted image 20240930190812.png]]
 
-- **Generation 1**: Vacuum Tube Computers (1945 - 1953)
+### Generation 1 
+- **Vacuum Tube Computers** (1945 - 1953)
 	- Atanasoff Berry Computers solved systems of linear equations
 		- John Atanasoff and Clifford Berry of Iowa State University.
 		- First totally electronic machine.
@@ -54,7 +58,8 @@
 ![[Pasted image 20240930191221.png]]
 *IBM 650*
 
-- **Generation 2**: Transistorized Computers (1954 - 1965)
+###  Generation 2
+- **Transistorized Computers** (1954 - 1965)
 	- Transistors more reliable than vacuum tubes
 	- IBM 7094 (scientific) and 1401 (business)
 	- Digital Equipment Corporation (DEC) PDP-1
@@ -66,7 +71,8 @@
 ![[Pasted image 20240930191308.png]]
 *Relative Sizes (clockwise from top): Vacuum Tube, Transistor, Chip, Integrated Circuit Package*
 
-- **Generation 3**: Integrated Circuit Computers (1965 - 1980)
+### Generation 3
+- **Integrated Circuit Computers** (1965 - 1980)
 	- IBM 360/370
 	- DEC PDP-8 and PDP-11
 	- Cray-1 supercomputer
@@ -82,7 +88,8 @@
 			- Business people don't want roundoff error
 		- IBM was the Microsoft of its day, but it no longer is
 ![[Pasted image 20240930191651.png]]
-- **Generation 4**: VLSI Computers (1980 - ???)
+### Generation 4 
+- **VLSI Computers** (1980 - ???)
 	- Very large scale integrated circuits (VSLI) have more than 10,000 components per chip/
 	- Enable the creation of microprocessors.
 	- 8080, 8086, and 8088 chips used in first personal computers in early 80's
@@ -91,16 +98,17 @@
 		- Ran only one application at a time.
 ![[Pasted image 20240930191841.png]]
 ![[Pasted image 20240930191906.png]]
-- Backwards compatibility
-	- Backwards compatibility is the ability of a new machine to run software intended for the previous generation.
+
+### Backwards Compatibility
+- Backwards compatibility is the ability of a new machine to run software intended for the previous generation.
 	- Essential to modern software industry because users want to spend their money on their core business, not on rewriting or converting software
 - Importance of backwards compatibility
 	- Current PC architecture became near-universal not because it was a good one but because it was created at the right time
 	- Newer machines needed backward compatibility, so we are stuck with that architecture (and its successors) forever
 	- IBM has also provided backwards compatibility for its mainframe line
-- Moore’s Law (1965)
-	- Gordon Moore (founder of Intel) in 1965: The density of transistors in an integrated circuit will double every year.
-	- More recent version: Density of silicon chips doubles every 18 months.
+### Moore’s Law (1965)
+- Gordon Moore (founder of Intel) in 1965: The density of transistors in an integrated circuit will double every year.
+- More recent version: Density of silicon chips doubles every 18 months.
 - Just an approximation
 	- Not a real law like that law of gravity.
 	- That’s why different people have different versions.

@@ -1,4 +1,4 @@
-**Identity Table:**
+### **Identity Table:**
 
 | Identity Name         | AND Form                   | OR Form                     |
 | --------------------- | -------------------------- | --------------------------- |
@@ -12,6 +12,7 @@
 | Absorption Law        | $x(x + y) = x$             | $x + xy = x$                |
 | DeMorgan's Law        | $(xy)' = x' + y'$          | $(x + y)' = x'y'$           |
 | Double Complement Law | $(x')' = x$                | <-- Same as AND             |
+
 - The simpler the Boolean function is made, the smaller the circuit that will result
 	- Simpler circuits are cheaper to build, consume less power, and run faster than complex circuits.
 - However, there is other criteria involved:
@@ -37,7 +38,7 @@
 		- The AND form of the identity law is $1x = x$
 		- That means that $1(x + y) = x + y, 1(x') = x'$, etc.
 ---
-**The Identity Law** 
+### **The Identity Law** 
 - States that performing an operation with its identity does not affect the result.
 	- That is the definition of identity
 - AND form: $1x = x$
@@ -60,7 +61,7 @@
 			- If x is false, then "x or a false statement" is false.
 		- This works because only one statement needs to be true to make the result of "or" true.
 ---
-**The Null Law** 
+### **The Null Law** 
 - States that use of opposite operations' identity "nullifies" a value.
 - AND form: $0x = 0$
 	- Note that x no longer appears on the right hand side.
@@ -74,7 +75,7 @@
 	- Explanation:
 		- Since 1 = true, this means that: if there is one true statement is a disjunction (series of ORs), the result is true.
 ---
-**The Idempotent Law** 
+### **The Idempotent Law** 
 - States that if the two input values are the same, the output is the same as the input
 	- The term comes from the Latin words "idem" meaning same, and "potent" meaning value.
 	- Note that the word is "idem" and not "item"
@@ -88,7 +89,7 @@
 	- Explanation: 
 		- Similarly, if you "or" a variable with itself, you are not adding any new information, so the result (true or false) is the same as the input.
 ---
-**The Inverse Law** 
+### **The Inverse Law** 
 - States that if you perform an operation with a value and its complement, the result is the identity for the opposite operation
 
 	- AND form $xx' = 0$
@@ -103,17 +104,17 @@
 ---
 - The Commutative Law, Associative Law and the Distributive Law are mostly parallel to the laws of arithmetic, except the *Distributive law, AND form*.
 ---
-**The Commutative Law** 
+### **The Commutative Law** 
 - The same as in arithmetic, it states that the order of operands is immaterial.
 	- AND form: $xy = yx$
 	- OR form: $x + y = y + x$
 ---
-**The Associative Law** 
+### **The Associative Law** 
 - The same as in arithmetic, it states that the grouping of operands with the same operator is immaterial.
 	- AND form: $(xy)z = x(yz)$
 	- OR form: $(x + y) + z = x + (y + z)$
 ---
-**The Distributive Law** 
+### **The Distributive Law** 
 - Explains how one operation can be "distributed" over the other.
 -  In arithmetic we only have one distributive law, but in Boolean algebra we have two.
 -  The distributive laws are named after the *inner* operation
@@ -130,7 +131,7 @@
 ---
 - The last group: Absorption Law, DeMorgan's Law, and Double Complement Law are extremely useful in **simplifying Boolean functions**.
 ---
-**Absorption Law**
+### **Absorption Law**
 - AND form: $x(x + y) = x$
 - Explanation:
 	- "x is true" is a stronger statement than "x or y is true". So if both the stronger and the weaker statements are true, then we only need to state the stronger one.
@@ -138,7 +139,7 @@
 - Explanation:
 	- The cases where "x and y" is true are a subset of the cases where x is true. Therefore the "x and y" term doesn't add anything to the disjunction of the two terms. Adding a subset of x to x just gives x again.
 ---
-**DeMorgan's Law**
+### **DeMorgan's Law**
 - And form: $-(xy) = -x + -y$
 - Explanation:
 	- If "x and y" is false, then one or the other must be false.
@@ -156,7 +157,7 @@
 - Explanation:
 	- If "x or y" is false, then the only way that can happen is if both x is false and y is false. 
 ---
-**Double Complement Law**
+### **Double Complement Law**
 - Both AND and OR form: $x'' = x$
 - Explanation:
 	- If the complement of an expression is true, the expression must be false. So if $x''$ is true, then $x'$ is false, which means $x$ is true. Similarly if $x''$ is false.
