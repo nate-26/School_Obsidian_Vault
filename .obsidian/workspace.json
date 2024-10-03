@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "75a0529a52deb9b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/Unit 3 - Agile Software Development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Architecture/00-Computer Architecture Main.md",
+                "file": "Software Engineering/Unit 3 - Agile Software Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Architecture/00-Computer Architecture Main.md",
+                "file": "Software Engineering/Unit 3 - Agile Software Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Architecture/00-Computer Architecture Main.md"
+                "file": "Software Engineering/Unit 3 - Agile Software Development.md"
               }
             }
           }
@@ -161,8 +173,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c13c4e955c2f250",
+  "active": "c2b703da4666dcc5",
   "lastOpenFiles": [
+    "Software Engineering/Images/Pasted image 20241002144925.png",
+    "Software Engineering/Images/Pasted image 20241002144814.png",
+    "Software Engineering/Images/Pasted image 20241002144730.png",
+    "Software Engineering/Images/Pasted image 20241002133250.png",
+    "Software Engineering/Images/Pasted image 20241002100854.png",
+    "Software Engineering/Unit 1 - Intro.md",
+    "Software Engineering/Unit 3 - Agile Software Development.md",
+    "Computer Architecture/00-Computer Architecture Main.md",
     "Computer Architecture/01-Boolean Algebra.md",
     "Computer Architecture/02-Boolean Identities.md",
     "Computer Architecture/03-Canonical Forms.md",
@@ -175,7 +195,6 @@
     "Computer Architecture/Images/Pasted image 20240925202311.png",
     "Computer Architecture/Images/Pasted image 20240925202258.png",
     "Software Engineering/Unit 2 - SW Processes.md",
-    "Software Engineering/Unit 1- Intro.md",
     "Computer Architecture/99-Class Notes.md",
     "History of American Education/HAE Main.md",
     "Computer Architecture/Logic Gates.md",
@@ -185,11 +204,7 @@
     "Software Engineering/Images/Pasted image 20240917113847.png",
     "Software Engineering/Images/Pasted image 20240917113712.png",
     "Software Engineering/Images/Pasted image 20240917113436.png",
-    "Software Engineering/Images/Pasted image 20240917112714.png",
     "Software Engineering/Software Engineering Main.md",
-    "Software Engineering/Images/Pasted image 20240916184057.png",
-    "Software Engineering/Images/Pasted image 20240916183536.png",
-    "Software Engineering/Images/Pasted image 20240916060620.png",
     "Software Engineering/Images",
     "Software Engineering",
     "Computer Architecture/Images",
