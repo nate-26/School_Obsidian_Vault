@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11ef2877aec657a7",
+            "id": "5e8944e589d94572",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Architecture/Exam 1 Study Guide.md",
-                "mode": "preview",
+                "file": "Software Engineering/Unit 4 - Requirements Engineering.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Architecture/Exam 1 Study Guide.md",
+                "file": "Software Engineering/Unit 4 - Requirements Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Architecture/Exam 1 Study Guide.md",
+                "file": "Software Engineering/Unit 4 - Requirements Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Architecture/Exam 1 Study Guide.md"
+                "file": "Software Engineering/Unit 4 - Requirements Engineering.md"
               }
             }
           }
@@ -149,10 +149,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11ef2877aec657a7",
+  "active": "5e8944e589d94572",
   "lastOpenFiles": [
-    "Computer Architecture/02-Boolean Identities.md",
+    "Software Engineering/Images/{96F76191-F22A-43F6-AE32-45A837B3E311}.png",
+    "Software Engineering/Images/{D535EFAC-B09A-477E-A4E1-5DABD6F7270B}.png",
+    "Software Engineering/Images/{D39F3F34-1FCD-4BD3-AE5A-DDA47C44273B}.png",
+    "Software Engineering/Images/{4D7D99D9-B139-48F5-8F23-F5B946BA77FE}.png",
+    "Software Engineering/Images/{BF596A2C-FF01-4376-AD6D-CBCF300E348F}.png",
+    "{9EF86556-C615-43A7-A914-8E75E7D2A006}.png",
+    "Software Engineering/Unit 4 - Requirements Engineering.md",
+    "Software Engineering/Images/{F6D634E5-A4E9-4D6A-B463-C17889555F24}.png",
+    "Software Engineering/Images/{A054DD3F-DF9C-46FF-8B7D-3DB90E1DEB79}.png",
     "Computer Architecture/Exam 1 Study Guide.md",
+    "Computer Architecture/02-Boolean Identities.md",
     "Computer Architecture/09- Register Memory.md",
     "Computer Architecture/07-Combinational Circuits.md",
     "Computer Architecture/03-Canonical Forms.md",
@@ -166,13 +175,6 @@
     "Computer Architecture/Images/Pasted image 20241002225310.png",
     "Computer Architecture/Images/Pasted image 20241002225210.png",
     "Computer Architecture/Images/Pasted image 20241002225115.png",
-    "Computer Architecture/Images/Pasted image 20241002224948.png",
-    "Computer Architecture/Images/Pasted image 20241002224809.png",
-    "Computer Architecture/Images/Pasted image 20241002224733.png",
-    "Computer Architecture/Images/Pasted image 20241002224639.png",
-    "Computer Architecture/Images/Pasted image 20241002224554.png",
-    "Computer Architecture/Images/Pasted image 20241002224336.png",
-    "Pasted image 20241002224256.png",
     "Main.md",
     "Software Engineering/Software Engineering Main.md",
     "Pasted image 20240930190757.png.md",
@@ -188,7 +190,6 @@
     "Software Engineering",
     "Computer Architecture/Images",
     "Computer Architecture/Boolean Identities.md",
-    "Computer Architecture/Truth Tables.md",
     "History of American Education",
     "Untitled.canvas",
     "Untitled 1",
