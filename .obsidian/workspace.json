@@ -14,21 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Architecture/Exam 1 Study Guide.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "308bab0506837848",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "23e4b3376ffc77be",
@@ -95,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Architecture/Exam 1 Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Architecture/Exam 1 Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Architecture/Exam 1 Study Guide.md"
+              }
             }
           }
         ],
@@ -153,15 +149,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "308bab0506837848",
+  "active": "11ef2877aec657a7",
   "lastOpenFiles": [
-    "Computer Architecture/Exam 1 Study Guide.md",
-    "Computer Architecture/06- Computer History.md",
-    "Computer Architecture/07-Combinational Circuits.md",
-    "Computer Architecture/08- Sequential Circuits.md",
-    "Computer Architecture/09- Register Memory.md",
-    "Computer Architecture/99-Class Notes.md",
     "Computer Architecture/02-Boolean Identities.md",
+    "Computer Architecture/Exam 1 Study Guide.md",
+    "Computer Architecture/09- Register Memory.md",
+    "Computer Architecture/07-Combinational Circuits.md",
+    "Computer Architecture/03-Canonical Forms.md",
+    "Computer Architecture/08- Sequential Circuits.md",
+    "Computer Architecture/05-Logic Gates.md",
+    "Computer Architecture/06- Computer History.md",
+    "Computer Architecture/04-Truth Tables.md",
+    "Computer Architecture/01-Boolean Algebra.md",
+    "Computer Architecture/00-Computer Architecture Main.md",
+    "Computer Architecture/99-Class Notes.md",
     "Computer Architecture/Images/Pasted image 20241002225310.png",
     "Computer Architecture/Images/Pasted image 20241002225210.png",
     "Computer Architecture/Images/Pasted image 20241002225115.png",
@@ -172,11 +173,6 @@
     "Computer Architecture/Images/Pasted image 20241002224554.png",
     "Computer Architecture/Images/Pasted image 20241002224336.png",
     "Pasted image 20241002224256.png",
-    "Computer Architecture/05-Logic Gates.md",
-    "Computer Architecture/01-Boolean Algebra.md",
-    "Computer Architecture/04-Truth Tables.md",
-    "Computer Architecture/03-Canonical Forms.md",
-    "Computer Architecture/00-Computer Architecture Main.md",
     "Main.md",
     "Software Engineering/Software Engineering Main.md",
     "Pasted image 20240930190757.png.md",

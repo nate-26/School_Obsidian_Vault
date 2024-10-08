@@ -73,6 +73,7 @@ Example 1: Implementing $y = x$
 	- Load the new value of y (i.e., the value of x) on the $ln$ lines.
 	- Turn on the write enable bit.
 	- The next time the clock ticks, the new value of y will be loaded into the cells pointed to by the address of y.
+
 Example 2: Implementing $y= x + 1$
 - Basically the same as the previous slide.
 - Just use the ALU on 3e40f to calculate $x+1$ (or any other expression) between the first and second steps on the previous slide. 

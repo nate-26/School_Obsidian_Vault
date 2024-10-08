@@ -5,6 +5,7 @@
 	- Mechanical calculators have existed since the 1600's.
 	- Development limited by ability to machine the parts.
 	- Handheld electronic calculators were invented in the 1970's, overlapping stored program technology.
+
 ![[Pasted image 20240930190621.png]]
 *Mechanical Calculator*
 
@@ -51,6 +52,7 @@
 		- Magnetic drum, not a disk
 		- Used decimal, not binary
 		- Phased out in 1969
+
 ![[Pasted image 20240930190940.png]]
 *Vacuum Tube (left), Atanasoff Berry Computer (right)*
 ![[Pasted image 20240930191016.png]]
@@ -67,6 +69,7 @@
 	- Each of these computers had a different architecture.
 	- Less than 1MB of memory
 	- Chip had 2000 NAND gates
+
 ![[Pasted image 20240930191253.png]]
 ![[Pasted image 20240930191308.png]]
 *Relative Sizes (clockwise from top): Vacuum Tube, Transistor, Chip, Integrated Circuit Package*
@@ -96,6 +99,7 @@
 	- Earliest PCs had no hard disk
 		- 360KB per floppy disk (later 1.4MB)
 		- Ran only one application at a time.
+
 ![[Pasted image 20240930191841.png]]
 ![[Pasted image 20240930191906.png]]
 

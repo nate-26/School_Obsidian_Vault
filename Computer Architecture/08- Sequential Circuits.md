@@ -49,6 +49,7 @@
 - The SR flipflop can be modified to provide a stable state when both inputs are 1.
 - This modified flipflop is called a JK flipflop, shown at the right.
 	- The “JK” is named after  Jack Kilby.
+
 ![[Pasted image 20241002224948.png]]
 
 - At the right, we see how an SR flipflop can be modified to create a JK flipflop.
@@ -68,4 +69,5 @@
 	- D flipflops are usually illustrated using the block diagram shown below.
 	- In addition to D, the clock input is needed as for any sequential circuit.
 	- It is convenient but not required to output both Q and Q’.
+
 ![[Pasted image 20241002225310.png]]

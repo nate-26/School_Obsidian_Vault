@@ -56,6 +56,7 @@ $$F(x,y,z) = x+!yz$$
 - However, from the point of view of manufacturing efficiency, it does not hurt to use a full adder with the carry-in set to 0.
 	- You can do that by having no input to that item.
 	- Or you could replace the right-most full adder by a half-adder.
+
 ![[Pasted image 20240919121647.png]]
 
 ---

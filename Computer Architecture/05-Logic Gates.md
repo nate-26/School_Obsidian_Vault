@@ -87,6 +87,7 @@ Electronic device that produces a result based on two or more input values.
 - Gates can have multiple inputs and more than one output.
 - A gate showing 3 or more inputs is really and abbreviation for a series of gates. This is made possible by the associative and commutative laws for AND or OR.
 	- The y' in the middle diagram is an example; it could also be plain y or a more complex function.
+
 ![[Pasted image 20240912115211.png]]
 
 - A gate with more than one output is an abbreviation for a set of gates with the same input, where each of them provides one of the outputs.
