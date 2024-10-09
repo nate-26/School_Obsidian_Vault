@@ -343,3 +343,95 @@ Requirements amalgamation
 - UML sequence diagrams may be used to add detail to use-cases by showing the sequence of event processing in the system.
 
 ---
+### The Software Requirements Document
+
+- The software requirements document is the official statement of what is required of the system developers.
+- Should include both a definition of user requirements and a specification of the system requirements.
+- It is NOT a design document. As far as possible, it should set out WHAT the system should do rather than HOW it should do it.
+
+---
+### Users of a Requirements Document
+
+![[{F91A2718-7D6B-4A68-9A2A-3A228F1F236E}.png]]
+
+
+---
+### Requirements Document Variability
+
+- Information in requirements document depends on type of system and the approach to development used.
+- Systems developed incrementally will, typically, have less detail in the requirements document.
+- Requirements documents standards have been designed e.g. IEEE standard. These are mostly applicable to the requirements for large systems engineering projects.
+
+---
+### The Structure of a Requirements Document
+
+![[{E6352025-C73C-4E3A-94D1-480394A59263}.png]]
+
+![[{48F0B2D9-BB48-4845-BF5B-71F877E0698B}.png]]
+
+---
+### Requirements Validation
+
+- Concerned with demonstrating that the requirements define the system that the customer really wants.
+- Requirements error costs are high so validation is very important
+	- Fixing a requirements error after delivery may cost up to 100 times the cost of fixing an implementation error.
+
+---
+### Requirements Checking
+
+- Validity. Does the system provide the functions which best support the customer's needs?
+- Consistency. Are there any requirements conflicts?
+- Completeness. Are all functions required by the customer included?
+- Realism. Can the requirements be implemented given available budget and technology
+- Verifiability. Can the requirements be checked?
+
+---
+### Requirements Validation Techniques
+
+Requirements reviews
+- Systematic manual analysis of the requirements.
+Prototyping
+- Using an executable model of the system to check requirements.
+Test-case generation
+- Developing tests for requirements to check testability.
+
+---
+### Changing Requirements
+
+The business and technical environment of the system always changes after installation.
+- New hardware may be introduced, it may be necessary to interface the system with other systems, business priorities may change (with consequent changes in the system support required), and new legislation and regulations may be introduced that the system must necessarily abide by.
+The people who pay for a system and the users of that system are rarely the same people.
+- System customers impose requirements because of organizational and budgetary constraints. These may conflict with end-user requirements and, after delivery, new features may have to be added for user support if the system is to meet its goals.
+Large systems usually have a diverse user community, with many users having different requirements and priorities that may be conflicting or contradictory.
+- The final system requirements are inevitably a compromise between them and, with experience, it is often discovered that the balance of support given to different users has to be changed.
+
+---
+### Requirements Management
+
+- Requirements management is the process of managing changing requirements during the requirements engineering process and system development.
+- New requirements emerge as a system is being developed and after it has gone into use.
+- You need to keep track of individual requirements and maintain links between dependent requirements so that you can assess the impact of requirements changes. You need to establish a formal process for making change proposals and linking these to system requirements.
+
+---
+### Requirements Management Planning
+
+- Establishes the level of requirements management detail that is required.
+- Requirements management decisions:
+	- Requirements identification Each requirement must be uniquely identified so that it can be cross-referenced with other requirements.
+	- A change management process This is the set of activities that assess the impact and cost of changes.
+	- Traceability policies These policies define the relationships between each requirement and between the requirements and the system design that should be recorded.
+	- Tool support Tools that may be used range from specialist requirements management systems to spreadsheets and simple database systems.
+
+---
+### Requirements Change Management
+
+- Deciding if a requirement change should be accepted
+
+![[{1CE67B8E-36B4-4934-BB42-7518DE3BB815}.png]]
+
+Problem analysis and change specification
+- During this stage, the problem or the change proposal is analyzed to check that it is valid. This analysis is fed back to the change requestor who may respond with a more specific requirements change proposal, or decide to withdraw the request.
+Change analysis and costing
+- The effect of the proposed change is assessed using traceability information and general knowledge of the system requirements. Once this analysis is completed, a decision is made whether or not to proceed with the requirements change.
+Change implementation
+- The requirements document and, where necessary, the system design and implementation, are modified. Ideally, the document should be organized so that changes can be easily implemented.
